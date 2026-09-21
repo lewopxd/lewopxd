@@ -1,5 +1,3 @@
-😃✔️ Leo. Sí. Lo haría **profesional pero humano**, evitando venderte como algo que no eres. También dejaría explícita la relación con `0zdev` y tu combinación poco común de software + IA + automatización + artes + investigación.
-
 # Leonardo Merchán
 
 ### Creative Technologist · Software Developer · Artist & Researcher
