@@ -40,29 +40,39 @@ I build interactive applications, digital tools, automation systems, experimenta
 - Research-creation
 - Visual and conceptual design
 
+
+
 ## Selected Work
 
-### [0zdev](https://github.com/0zdev)
+### Software & Creative Technology
 
-**Software development & creative technology**
+* **[Paneton](https://github.com/0zdev/paneton)** — Modular JavaScript UI toolkit for interactive development, prototyping, and debugging. Current implementation includes `@paneton/tree`, a hierarchical tree component for structured data, development tools, scene graphs, and interactive interfaces.
 
-My professional technology practice, focused on software, interactive experiences, automation and experimental digital tools.
+* **[DocuFlow](https://github.com/lewopxd/DocuFLow)** — Python desktop application for document processing, conversion, PDF generation, and file automation.
 
-### Interactive 3D Theatre Visualization
+* **[Nexi](https://github.com/lewopxd/Nexi_v1.3)** — Java/JavaFX desktop application exploring interactive interfaces, software architecture, WebView integration, and desktop tooling.
 
-An ongoing project exploring **3D visualization, interactive technology and theatre architecture**, combining software development with my professional background in theatre.
+* **[AutoForms 2](https://github.com/lewopxd/auto_Forms2)** — Python desktop automation tool combining a native application layer with HTML/CSS/JavaScript interfaces and WebView integration.
 
-### Nexi
+* **[threejs_fontViewer](https://github.com/0zdev/threejs_fontViewer)** — Browser-based 3D typography and visualization experiment built with Three.js.
 
-A Java/JavaFX desktop application exploring software architecture, graphical interfaces, automation and human-computer interaction.
+* **[Theatres](https://github.com/lewopxd/Theatres)** — Interactive 3D exploration of theatre spaces at the intersection of software, spatial visualization, and theatre research.
 
-### [Language-Key](https://github.com/lewopxd/Language-Key)
+* **[Language-Key](https://github.com/lewopxd/Language-Key)** — JavaScript/JSON tooling for lightweight multilingual HTML applications.
 
-A lightweight multilingual web system using **JavaScript, JSON and custom HTML attributes** to generate multilingual websites.
+* **[Teatro Quinta Esencia](https://github.com/lewopxd/quintae)** — Website and digital platform developed for a contemporary theatre collective, combining web development, visual design, and artistic practice.
 
-### [Vanilla Vite Template](https://github.com/lewopxd/my-vanilla-template-vite)
+---
 
-A reusable **HTML/CSS/JavaScript + Vite** development environment with multilingual support and a custom build workflow.
+### Technology Focus
+
+**Software:** Java · JavaScript · Python · HTML5 · CSS3
+**Frontend & UI:** Vite · JavaFX · WebView · UI/UX · Interactive Interfaces
+**Creative Technology:** Three.js · 3D Visualization · Creative Coding · Digital Media
+**Automation:** Google Apps Script · Google Sheets · Google Forms · Excel · Python Automation
+**Practice:** Software Development · Creative Technology · Design · Arts & Humanities · Theatre · Artistic Research
+
+
 
 ## Professional Background
 
